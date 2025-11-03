@@ -2,11 +2,11 @@
 
 <div align="center">
   
-### 🚀 Desenvolvedor Full Stack Junior | Java | Spring Boot | JavaScript
+### 🚀 Desenvolvedor Full Stack Junior | Java | Spring Boot | TypeScript | JavaScript
 
 [![GitHub](https://img.shields.io/badge/GitHub-antonioduarte07-181717?style=for-the-badge&logo=github)](https://github.com/antonioduarte07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Davi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-davi-a830b433a/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail)](mailto:antoniodavi220404@gmail.com)
 
 </div>
 
@@ -15,12 +15,13 @@
 ## 💻 Sobre Mim
 
 Sou um desenvolvedor Full Stack Junior apaixonado por criar soluções eficientes e escaláveis. 
-Atualmente focando em **Java/Spring Boot** para backend e **JavaScript/React** para frontend.
+Atualmente focando em **Java/Spring Boot** para backend e **TypeScript/JavaScript** para frontend.
 
 - 🔭 Trabalhando em projetos pessoais para expandir meus conhecimentos
 - 🌱 Aprendendo constantemente novas tecnologias e melhores práticas
-- 💡 Interessado em arquitetura de software e design patterns
+- 💡 Interessado em arquitetura de software, APIs RESTful e desenvolvimento fullstack
 - 📚 Sempre buscando melhorar através de código limpo e testes
+- 🎯 Focado em construir aplicações web modernas e performáticas
 
 ---
 
@@ -33,11 +34,13 @@ Atualmente focando em **Java/Spring Boot** para backend e **JavaScript/React** p
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-4479A1?style=for-the-badge&logo=h2&logoColor=white)
 
@@ -64,10 +67,20 @@ Atualmente focando em **Java/Spring Boot** para backend e **JavaScript/React** p
 
 ## 🌟 Projetos em Destaque
 
+### ⭐ SAAS TERROA - Projeto Principal
+Sistema SaaS completo desenvolvido com TypeScript e PostgreSQL. Projeto fullstack robusto demonstrando habilidades avançadas em desenvolvimento web moderno.
+
+- **Stack:** TypeScript, PostgreSQL, HTML/CSS
+- **Features:** Arquitetura SaaS, banco de dados relacional, frontend moderno
+- **Status:** ✅ Projeto completo e funcional
+- [Ver repositório](https://github.com/antonioduarte07/SAAS_TERROA)
+
 ### 🔐 API RESTful com Autenticação JWT
-API completa desenvolvida com Spring Boot para gerenciamento de dados com autenticação JWT.
+API completa desenvolvida com Spring Boot para gerenciamento de dados com autenticação JWT. Demonstração de habilidades em backend Java e segurança de APIs.
+
 - **Stack:** Java, Spring Boot, Spring Security, JWT, H2
-- **Features:** CRUD completo, autenticação segura, documentação completa
+- **Features:** CRUD completo, autenticação segura, documentação completa, scripts de teste
+- **Status:** ✅ Completo com testes automatizados
 - [Ver repositório](https://github.com/antonioduarte07/API-com-Autentica-o)
 
 ---
@@ -81,8 +94,8 @@ API completa desenvolvida com Spring Boot para gerenciamento de dados com autent
 ## 📫 Como me encontrar
 
 - **GitHub:** [@antonioduarte07](https://github.com/antonioduarte07)
-- **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- **Email:** seu.email@gmail.com
+- **LinkedIn:** [Antonio Davi](https://www.linkedin.com/in/antonio-davi-a830b433a/)
+- **Email:** antoniodavi220404@gmail.com
 
 ---
 
