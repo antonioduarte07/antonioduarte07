@@ -1,77 +1,117 @@
+<div align="center">
+
 # 👋 Olá, eu sou Antonio Davi Duarte!
 
-<div align="center">
-  
 ### 🚀 Desenvolvedor Full Stack | Estudante de Tecnologia da Informação | AWS Certified
 
 📍 **Pompeia, São Paulo, Brasil** | 🎓 **Fatec Shunji Nishimura Pompeia**
 
-[![GitHub](https://img.shields.io/badge/GitHub-antonioduarte07-181717?style=for-the-badge&logo=github)](https://github.com/antonioduarte07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Davi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-davi-a830b433a/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail)](mailto:antoniodavi220404@gmail.com)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-antonioduarte07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonioduarte07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Davi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-davi-a830b433a/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniodavi220404@gmail.com)
 
 ---
 
+</div>
+
 ## 💻 Sobre Mim
+
+<div align="justify">
 
 Sou um desenvolvedor Full Stack apaixonado por criar soluções eficientes e escaláveis, com foco especial em **tecnologia aplicada ao agronegócio**. Atualmente sou aluno de **Tecnologia da Informação** na Fatec Shunji Nishimura Pompeia, com previsão de conclusão em **dezembro de 2025**.
 
 Durante minha formação, desenvolvo competências em **computação, programação e habilidades analíticas**, aplicando esses conhecimentos em projetos acadêmicos e atividades práticas. Estou em busca de **oportunidades de estágio** na área de tecnologia, especialmente voltadas ao agronegócio, para aprimorar minhas habilidades e contribuir para soluções inovadoras.
 
-- 🎓 Estudante de Tecnologia da Informação na Fatec Pompeia (2023-2025)
-- ☁️ AWS Academy Graduate - AWS Academy Cloud Foundations
-- 🔭 Trabalhando em projetos pessoais para expandir meus conhecimentos
-- 🌱 Aprendendo constantemente novas tecnologias e melhores práticas
-- 💡 Interessado em arquitetura de software, APIs RESTful, análise de dados e desenvolvimento fullstack
-- 📚 Sempre buscando melhorar através de código limpo e testes
-- 🎯 Focado em construir aplicações web modernas e performáticas
-- 🌾 Motivado por soluções tecnológicas para o agronegócio
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Minha Jornada
+
+- 🎓 Estudante de TI na Fatec Pompeia (2023-2025)
+- ☁️ AWS Academy Graduate
+- 🔭 Desenvolvendo projetos pessoais
+- 🌱 Aprendizado contínuo
+- 💡 Arquitetura & APIs RESTful
+- 📚 Código limpo e testes
+- 🎯 Aplicações modernas
+- 🌾 Tecnologia para agronegócio
+
+</td>
+<td width="50%">
+
+### 🏆 Destaques
+
+- ✅ **Full Stack Development**
+- ✅ **Análise de Dados**
+- ✅ **Cloud Computing (AWS)**
+- ✅ **Mobile Development**
+- ✅ **Big Data**
+- ✅ **APIs RESTful**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológico
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Backend
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Frontend
+
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Banco de Dados
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Database.png" alt="Database" width="25" height="25" /> Banco de Dados
+
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-4479A1?style=for-the-badge&logo=h2&logoColor=white)
 
-### Análise de Dados & Big Data
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Análise de Dados & Big Data
+
+<div align="center">
+
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud & Ferramentas
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Cloud & Ferramentas
+
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🎯 Competências Principais
-
-- **Desenvolvimento de Software** - Full Stack com foco em soluções escaláveis
-- **Análise de Dados** - PowerBI, Python e ferramentas de visualização
-- **Big Data** - Processamento e análise de grandes volumes de dados
-- **Cloud Computing** - AWS Academy Cloud Foundations
-- **Mobile Development** - Flutter para aplicações multiplataforma
-- **APIs RESTful** - Desenvolvimento e integração de APIs seguras
+</div>
 
 ---
 
@@ -79,11 +119,12 @@ Durante minha formação, desenvolvo competências em **computação, programaç
 
 <div align="center">
   
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=antonioduarte07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/antonioduarte07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioduarte07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioduarte07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioduarte07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Contribuições](https://github-readme-streak-stats.demolab.com/?user=antonioduarte07&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=antonioduarte07&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
 
 </div>
 
@@ -91,51 +132,114 @@ Durante minha formação, desenvolvo competências em **computação, programaç
 
 ## 🌟 Projetos em Destaque
 
-### ⭐ SAAS TERROA - Projeto Principal
+<div align="center">
+
+### ⭐ SAAS TERROA
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Sistema SaaS Completo**
+
 Sistema SaaS completo desenvolvido com TypeScript e PostgreSQL. Projeto fullstack robusto demonstrando habilidades avançadas em desenvolvimento web moderno.
 
-- **Stack:** TypeScript, PostgreSQL, HTML/CSS
-- **Features:** Arquitetura SaaS, banco de dados relacional, frontend moderno
-- **Status:** ✅ Projeto completo e funcional
-- [Ver repositório](https://github.com/antonioduarte07/SAAS_TERROA)
+**Stack Tecnológico:**
+- TypeScript
+- PostgreSQL
+- HTML/CSS
 
-### 🔐 API RESTful com Autenticação JWT
+**Status:** ✅ Completo e funcional
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/SAAS_TERROA)
+
+</td>
+<td width="50%" valign="top">
+
+**API RESTful com JWT**
+
 API completa desenvolvida com Spring Boot para gerenciamento de dados com autenticação JWT. Demonstração de habilidades em backend Java e segurança de APIs.
 
-- **Stack:** Java, Spring Boot, Spring Security, JWT, H2
-- **Features:** CRUD completo, autenticação segura, documentação completa, scripts de teste
-- **Status:** ✅ Completo com testes automatizados
-- [Ver repositório](https://github.com/antonioduarte07/API-com-Autentica-o)
+**Stack Tecnológico:**
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- H2
+
+**Status:** ✅ Completo com testes
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/API-com-Autentica-o)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Competências Principais
+
+<div align="center">
+
+| 💻 Desenvolvimento | 📊 Análise | ☁️ Cloud | 📱 Mobile |
+|:---:|:---:|:---:|:---:|
+| Full Stack | PowerBI | AWS | Flutter |
+| APIs RESTful | Python | Cloud Foundations | Multiplataforma |
+| Arquitetura | Big Data | DevOps | UI/UX |
+
+</div>
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Fatec Shunji Nishimura Pompeia** - Tecnologia da Informação (Jan 2023 - Dez 2025)
-- **UDEMY Cursos** - PowerBI (Dez 2025)
-- **Fatec Shunji Nishimura Pompeia** - Bachelor of Agricultural Economics (2025)
-- **Faculdade Microlins** - Curso Informática Essencial (Dez 2018)
+<div align="center">
+
+| 📚 Instituição | 🎯 Curso | 📅 Período | ✅ Status |
+|:---:|:---:|:---:|:---:|
+| **Fatec Pompeia** | Tecnologia da Informação | Jan 2023 - Dez 2025 | 🎓 Em andamento |
+| **UDEMY** | PowerBI | Dez 2025 | ✅ Concluído |
+| **Fatec Pompeia** | Bachelor of Agricultural Economics | 2025 | ✅ Concluído |
+| **Microlins** | Informática Essencial | Dez 2018 | ✅ Concluído |
+
+</div>
 
 ---
 
 ## 🏆 Certificações
 
-- **AWS Academy Graduate** - AWS Academy Cloud Foundations
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Academy-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**AWS Academy Graduate - Cloud Foundations**
+
+</div>
 
 ---
 
-## 📈 Estatísticas de Contribuição
+## 📈 Contribuições
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/antonioduarte07/antonioduarte07/output/github-contribution-grid-snake.svg)
 
+</div>
+
 ---
 
-## 📫 Como me encontrar
+## 📫 Entre em Contato
 
-- **GitHub:** [@antonioduarte07](https://github.com/antonioduarte07)
-- **LinkedIn:** [Antonio Davi](https://www.linkedin.com/in/antonio-davi-a830b433a/)
-- **Email:** antoniodavi220404@gmail.com
-- **Localização:** Pompeia, São Paulo, Brasil
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-antonioduarte07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonioduarte07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Davi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-davi-a830b433a/)
+[![Email](https://img.shields.io/badge/Email-antoniodavi220404@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniodavi220404@gmail.com)
+
+**📍 Localização:** Pompeia, São Paulo, Brasil
+
+</div>
 
 ---
 
@@ -146,5 +250,7 @@ API completa desenvolvida com Spring Boot para gerenciamento de dados com autent
 **Desenvolvido com ❤️ por Antonio Davi Duarte**
 
 *Motivado pelo aprendizado contínuo e crescimento profissional, sempre em busca de integrar equipes que valorizem a inovação e a colaboração.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=antonioduarte07&color=6366f1&style=for-the-badge&label=Profile+Views)
 
 </div>
