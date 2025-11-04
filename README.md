@@ -179,6 +179,117 @@ API completa desenvolvida com Spring Boot para gerenciamento de dados com autent
 
 ---
 
+## 💼 Outros Projetos
+
+<div align="center">
+
+### 📋 Task Manager API
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**API REST para Gerenciamento de Tarefas**
+
+API completa desenvolvida com Spring Boot para gerenciamento de tarefas com CRUD completo, validação de dados e tratamento de erros.
+
+**Stack Tecnológico:**
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA
+- H2 Database
+- Maven
+
+**Status:** ✅ Completo e funcional
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/task-manager-api)
+
+</td>
+<td width="50%" valign="top">
+
+**Weather Dashboard**
+
+Dashboard interativo para consulta de informações climáticas em tempo real usando a API do OpenWeatherMap.
+
+**Stack Tecnológico:**
+- TypeScript
+- HTML5 / CSS3
+- OpenWeatherMap API
+- LocalStorage
+
+**Status:** ✅ Completo e funcional
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/weather-dashboard)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Data Analyzer**
+
+Ferramenta de análise exploratória de dados com visualizações, estatísticas descritivas e detecção de outliers.
+
+**Stack Tecnológico:**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+**Status:** ✅ Completo e funcional
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/data-analyzer)
+
+</td>
+<td width="50%" valign="top">
+
+**Expense Tracker**
+
+Aplicativo mobile Flutter para controle de gastos pessoais com categorização, visualizações e persistência local.
+
+**Stack Tecnológico:**
+- Flutter
+- Dart
+- Provider
+- Hive
+
+**Status:** ✅ Completo e funcional
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/expense-tracker)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**URL Shortener**
+
+Ferramenta web para encurtar URLs longas com histórico, cópia automática e armazenamento local.
+
+**Stack Tecnológico:**
+- TypeScript
+- HTML5 / CSS3
+- LocalStorage API
+- Clipboard API
+
+**Status:** ✅ Completo e funcional
+
+[🔗 Ver repositório](https://github.com/antonioduarte07/url-shortener)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🎯 Competências Principais
 
 <div align="center">
