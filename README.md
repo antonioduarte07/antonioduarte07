@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Antonio Davi Duarte
 
-### Desenvolvedor Full Stack | ERP Sankhya | IA aplicada a negócios | AgTech
+### Desenvolvedor Full Stack | ERP's | IA aplicada a negócios | AgTech
 
 📍 **Barreiras, Bahia, Brasil**  
 🎓 **Tecnologia da Informação / Big Data no Agronegócio**  
